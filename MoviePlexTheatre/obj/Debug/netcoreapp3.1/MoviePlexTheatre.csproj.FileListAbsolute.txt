@@ -1,0 +1,13 @@
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\bin\Debug\netcoreapp3.1\MoviePlexTheatre.exe
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\bin\Debug\netcoreapp3.1\MoviePlexTheatre.deps.json
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\bin\Debug\netcoreapp3.1\MoviePlexTheatre.runtimeconfig.json
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\bin\Debug\netcoreapp3.1\MoviePlexTheatre.runtimeconfig.dev.json
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\bin\Debug\netcoreapp3.1\MoviePlexTheatre.dll
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\bin\Debug\netcoreapp3.1\MoviePlexTheatre.pdb
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\obj\Debug\netcoreapp3.1\MoviePlexTheatre.csprojAssemblyReference.cache
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\obj\Debug\netcoreapp3.1\MoviePlexTheatre.AssemblyInfoInputs.cache
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\obj\Debug\netcoreapp3.1\MoviePlexTheatre.AssemblyInfo.cs
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\obj\Debug\netcoreapp3.1\MoviePlexTheatre.csproj.CoreCompileInputs.cache
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\obj\Debug\netcoreapp3.1\MoviePlexTheatre.dll
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\obj\Debug\netcoreapp3.1\MoviePlexTheatre.pdb
+C:\Users\smale7830\source\repos\MoviePlexTheatre\MoviePlexTheatre\obj\Debug\netcoreapp3.1\MoviePlexTheatre.genruntimeconfig.cache
